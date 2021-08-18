@@ -1,3 +1,17 @@
 # Chromation
 
-A first-person puzzle game built using Unity that uses a players knowledge to combine colours to solve puzzles
+Chromation  
+
+## The process
+### Developed using
+- Unity3D
+- C#
+
+### Inspirations and goals
+
+
+### Designing and developing the application
+
+
+## Future fixes, updates and additions
+
