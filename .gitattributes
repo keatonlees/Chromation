@@ -1,8 +1,2 @@
-<!-- 
-**/Assets/TextMesh?Pro/* linguist-vendored
-**/shaders/* linguist-vendored
-**/cginc/* linguist-vendored 
--->
-
 *.shader linguist-detectable=false
 *.cginc linguist-detectable=false
